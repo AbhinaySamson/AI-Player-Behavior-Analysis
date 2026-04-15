@@ -49,3 +49,6 @@ python app.py
 Go to new Terminal
 cd frontend
 npm run dev
+
+<img width="1893" height="964" alt="image" src="https://github.com/user-attachments/assets/48476356-8245-4c28-8451-4e35692701d6" />
+
