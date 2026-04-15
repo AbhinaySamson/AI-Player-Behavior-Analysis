@@ -51,6 +51,10 @@ cd frontend
 npm run dev
 ```
 
-<img width="1893" height="964" alt="image" src="https://github.com/user-attachments/assets/6ededd87-f67d-4828-af3e-3ff68e0182ac" />
+<img width="1893" height="964" alt="image" src="https://github.com/user-attachments/assets/6ededd87-f67d-4828-af3e-3ff68e0182a<img width="1894" height="962" alt="image" src="https://github.com/user-attachments/assets/b9b9c9a5-3c51-4cdf-82b6-887d79e9c891" />
+<img width="1858" height="300" alt="image" src="https://github.com/user-attachments/assets/4cd0df50-5ec8-4b42-8641-b9984c0e2e95" /><img width="1865" height="728" alt="image" src="https://github.com/user-attachments/assets/d2092532-8377-4561-8298-ac3be2087095" />
+![Uploading image.png…]()
+
+c" />
 
 
