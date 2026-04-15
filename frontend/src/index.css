@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+body {
+  background: radial-gradient(circle at top, #0f172a, #000);
+  color: white;
+}
+
+.card {
+  background: rgba(17, 24, 39, 0.6);
+  border: 1px solid #374151;
+  border-radius: 16px;
+  padding: 20px;
+  backdrop-filter: blur(10px);
+}
+
+/* Hover effect */
+.card:hover {
+  transform: scale(1.05);
+  border-color: rgba(168, 85, 247, 0.6); /* purple glow */
+}
+
+/* Optional glow text */
+.glow-text {
+  text-shadow: 0 0 10px rgba(168, 85, 247, 0.8);
+}
